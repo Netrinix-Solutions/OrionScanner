@@ -2,7 +2,7 @@
 
 # Tool Name: OrionScanner
 # Description: Triple-threat recon & vuln scanner for authorized bug hunting
-# Author: [Your Name]
+# Author: Neha Yadav
 # Version: 1.0
 # Banner Inspired by NASA's Orion spacecraft
 
