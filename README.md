@@ -150,7 +150,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Netrinix Solutions - [@NetrinixSolutions](https://twitter.com/NetrinixSolutions) - security@netrinix.solutions
+Netrinix Solutions - [@NetrinixSolutions](https://twitter.com/NetrinixSolutions) - https://netrinix.com/
 
 Project Link: [https://github.com/Netrinix-Solutions/OrionScanner](https://github.com/Netrinix-Solutions/OrionScanner)
 ```
