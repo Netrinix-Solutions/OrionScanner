@@ -1,7 +1,7 @@
 
 # OrionScanner 🔍🚀
 
-![OrionScanner Banner](https://i.imgur.com/3xqZK7l.png) <!-- Use actual banner image URL here -->
+
 
 > **Advanced Reconnaissance & Vulnerability Scanning Suite**  
 > *Authorized Bug Hunting for Critical Infrastructure*
